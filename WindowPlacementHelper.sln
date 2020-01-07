@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowPlacementHelper", "WindowPlacementHelper\WindowPlacementHelper.csproj", "{FCE740D3-0D0D-4389-9D6C-D7FF3F2B012D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{0820C143-F5E3-48F7-8847-37E0797DD392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE740D3-0D0D-4389-9D6C-D7FF3F2B012D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE740D3-0D0D-4389-9D6C-D7FF3F2B012D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE740D3-0D0D-4389-9D6C-D7FF3F2B012D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE740D3-0D0D-4389-9D6C-D7FF3F2B012D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0820C143-F5E3-48F7-8847-37E0797DD392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0820C143-F5E3-48F7-8847-37E0797DD392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0820C143-F5E3-48F7-8847-37E0797DD392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0820C143-F5E3-48F7-8847-37E0797DD392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2745BD1-B5AE-4B69-B635-086D1C5DA6DE}
+	EndGlobalSection
+EndGlobal
